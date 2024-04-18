@@ -33,8 +33,8 @@ Integrated Camera: Integrated C (usb-0000:00:14.0-8):
 ```
 cap2 = cv2.VideoCapture(0) # change to camera index
 ```
-![image](https://github.com/Guanlan-gkd/Ri-demo/blob/pinhole_mla/stack.jpg)
+![image](https://github.com/Guanlan-gkd/Ri-demo/blob/main/stack.jpg)
 
 3. Run main.py. Press "r" to reset sensor. Press the senor, you should see image like below.
    
-![image](https://github.com/Guanlan-gkd/Ri-demo/blob/pinhole_mla/bar.jpg)
+![image](https://github.com/Guanlan-gkd/Ri-demo/blob/main/bar.jpg)
