@@ -33,7 +33,7 @@ Integrated Camera: Integrated C (usb-0000:00:14.0-8):
 ```
 cap2 = cv2.VideoCapture(0) # change to camera index
 ```
-![image](https://github.com/Guanlan-gkd/Pinhole_MLA_demo/blob/main/bar.jpg)
+![image](https://github.com/Guanlan-gkd/Pinhole_MLA_demo/blob/main/stack.jpg)
 
 3. Run main.py. Press "r" to reset sensor. Press the senor, you should see image like below.
    
